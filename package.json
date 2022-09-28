@@ -1,0 +1,8 @@
+{
+  "name":"bot foda",
+  "version":"1.0",
+  "main":"main.js",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}

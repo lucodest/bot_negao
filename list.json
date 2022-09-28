@@ -1,0 +1,16 @@
+{
+  "introchans": [
+    "chat"
+  ],
+
+  "msgs": [
+    {
+      "text": "TO AQUI NA SUA CASA <username> VEM AQUI PRA NOIS BRINCA AAHAHHAHAAHAHA",
+      "path": "./res/ndc.jpeg"
+    },
+    {
+      "text": ":heart:",
+      "path": "./res/audio.mp3"
+    }
+  ]
+}
